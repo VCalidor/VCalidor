@@ -18,7 +18,7 @@ const aboutMe = {
       align="center"
       height="310"
       widht="400"
-      src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"
+      src="https://giphy.com/gifs/surprise-hats-off-meet-my-little-friend-l0HlP7vUlR4PFivTi"
     />
    </a>
  </p>   
