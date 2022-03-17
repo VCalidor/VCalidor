@@ -13,12 +13,12 @@ const aboutMe = {
 };
 ```
 <p align="center">
-  <a href="https://giphy.com/gifs/surprise-hats-off-meet-my-little-friend-l0HlP7vUlR4PFivTi">
+  <a href="https://media.giphy.com/media/AHWdLeFZj9gtO/giphy.gif">
     <img
       align="center"
       height="310"
       widht="400"
-      src="https://giphy.com/gifs/surprise-hats-off-meet-my-little-friend-l0HlP7vUlR4PFivTi"
+      src="https://media.giphy.com/media/AHWdLeFZj9gtO/giphy.gif"
     />
    </a>
  </p>   
