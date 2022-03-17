@@ -13,7 +13,7 @@ const aboutMe = {
 };
 ```
 <p align="center">
-  <a href="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+  <a href="https://giphy.com/gifs/surprise-hats-off-meet-my-little-friend-l0HlP7vUlR4PFivTi">
     <img
       align="center"
       height="310"
