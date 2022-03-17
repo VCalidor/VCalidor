@@ -1,6 +1,6 @@
 <h1>Hey, i'm Victor Calidor :D<img src="https://media.giphy.com/media/jVMiaEtwo6nzW0WxRH/giphy.gif" width="50"></h1>
 
-![Linkedin: victor-calidor-nolasco](https://img.shields.io/badge/-victor-calidor-nolasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-calidor-nolasco/)
+[![Linkedin: victor-calidor-nolasco](https://img.shields.io/badge/-victor-calidor-nolasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-calidor-nolasco/)](https://www.linkedin.com/in/victor-calidor-nolasco/)
 [![](https://img.shields.io/badge/Gmail-victor.calidor%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![GitHub VCalidor](https://img.shields.io/github/followers/VCalidor?label=follow&style=social)](https://github.com/VCalidor)
 
