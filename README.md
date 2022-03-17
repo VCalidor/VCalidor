@@ -30,14 +30,15 @@ const aboutMe = {
 <!--### Studying:-->
 ### Technologies:
 <code><img height="20" src="https://github.com/coherencez/tech-logos/blob/master/github.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://github.com/coherencez/tech-logos/raw/master/jslogo.png"></code>
+<code><img height="20" src="https://github.com/coherencez/tech-logos/raw/master/react.png"></code>
+<code><img height="20" src="https://github.com/coherencez/tech-logos/raw/master/redux.png"></code>
+<code><img height="20" src="https://github.com/coherencez/tech-logos/raw/master/nodejs.png"></code>
+<code><img height="25" src="https://github.com/coherencez/tech-logos/raw/master/npm.png"></code>
+<code><img height="25" src="https://github.com/coherencez/tech-logos/raw/master/html5.png"></code> 
+<code><img height="25" src="https://github.com/coherencez/tech-logos/raw/master/css3.png"></code>
+<code><img height="20" src="https://github.com/coherencez/tech-logos/raw/master/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rtl/rtl.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <!-- <code><img height="25" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code> -->
